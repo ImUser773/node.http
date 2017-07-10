@@ -1,4 +1,3 @@
-"use strick"
 var express = require("express");
 var routes = require("./routes/index");
 var bodyParser = require("body-parser");
